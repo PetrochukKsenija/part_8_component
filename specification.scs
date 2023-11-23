@@ -2,7 +2,7 @@ part_8_specification
     <- concept_reusable_component_specification;;
 
 part_8_specification = [*
-part_8_methods_and_tools_of_reengineering_and_use_of_intelligent_computer_systems_new_generation
+part_8_ecosystem_of_intelligent_computer_systems_of_the_new_generation_and_their_users
     <- concept_reusable_component;
     <- concept_atomic_reusable_component;
     <- concept_independent_reusable_component;
